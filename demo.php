@@ -1,3 +1,6 @@
+// This Is Just A Demonstration To Show You How Session Variables Move To Another Pages
+
+
 <?php
 session_start();
 
