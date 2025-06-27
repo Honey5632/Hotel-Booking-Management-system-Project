@@ -7,3 +7,7 @@ Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Database: MySQL (Managed via phpMyAdmin)
+
+After When Your Start The Project
+First Import hotel_management.sql database file to your local MyPhpAdmin
+then write this url http://localhost/hotel/ to your browser
